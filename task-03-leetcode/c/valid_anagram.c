@@ -1,3 +1,14 @@
+/**
+ * Problem: Valid Anagram (LeetCode #242)
+ * Difficulty: Easy
+ * Language: C
+ *
+ * Approach:
+ *   Frequency counting using a fixed array of size 26.
+ *   Increment for characters in 's' and decrement for characters in 't'.
+ */
+
+#include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
 
@@ -20,4 +31,14 @@ bool isAnagram(char* s, char* t) {
     }
     
     return true;
+}
+
+int main() {
+    char s[] = "anagram";
+    char t[] = "nagaram";
+    
+    printf("s = '%s', t = '%s'\n", s, t);
+    printf("Is Anagram: %s\n", isAnagram(s, t) ? "true" : "false");
+    
+    return 0;
 }
