@@ -1,0 +1,4 @@
+Level 1: FLAG{welcome_to_terminal_voyage}
+Level 2: FLAG{hidden_files_uncovered}
+Level 3: FLAG{permission_granted_master}
+Level 4: FLAG{grep_master_level_unlocked}
