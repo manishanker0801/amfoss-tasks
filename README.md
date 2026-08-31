@@ -1,9 +1,10 @@
 # amFOSS Tasks Submission
 
-Repository containing solutions for amFOSS entry tasks.
+Repository containing completed solutions for amFOSS entry tasks.
 
 ## Completed Tasks
 
-| Task # | Task Name | Description | Solution |
+| Task # | Task Name | Source Repository | Solution & Walkthrough |
 | :---: | :--- | :--- | :--- |
-| 01 | **Terminal Voyage** | Linux CLI navigation and file inspection challenge | [View Walkthrough](terminal-voyage/docs/walkthrough.md) |
+| 01 | **Terminal Voyage** | [rogueone-x/Terminal-Voyage-User-Edition](https://github.com/rogueone-x/Terminal-Voyage-User-Edition) | [View Solution](terminal-voyage/docs/walkthrough.md) |
+| 02 | **Ghost in the Machine** | [Rufine777/ghost-in-the-machine](https://github.com/Rufine777/ghost-in-the-machine) | [View Solution](ghost-in-the-machine/docs/walkthrough.md) |
